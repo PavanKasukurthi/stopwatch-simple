@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #edeaff;
+}
+
+.stopwatch {
+  width: 90%;
+  max-width: 600px;
+  background-color: #111;
+  color: white;
+  text-align: center;
+  padding: 1rem 0;
+  margin: 200px auto 0;
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
+}
+
+
+button {
+  border: none;
+  padding: 0.5rem 1rem;
+}
